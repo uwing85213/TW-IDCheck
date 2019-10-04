@@ -3,4 +3,4 @@
 
 windows系統:使用DEV C++ IDE工具即可
 
-ubuntu系統:
+
